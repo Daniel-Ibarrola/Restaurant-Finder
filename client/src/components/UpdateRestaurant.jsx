@@ -2,6 +2,7 @@ import React, { useEffect, useState } from 'react'
 import { useHistory, useParams } from 'react-router-dom';
 import RestaurantFinder from '../api/RestaurantFinder';
 
+
 function UpdateRestaurant(props) {
     const {id} = useParams();
     let history = useHistory();
