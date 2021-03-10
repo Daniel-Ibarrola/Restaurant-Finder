@@ -1,0 +1,29 @@
+.footer {
+    color: white;
+    padding-top: 3rem;
+}
+
+.link-list {
+    text-align: justify;
+}
+
+.bottom {
+    padding-top: 2rem;
+}
+
+.footer-icon  a{
+    color: white;
+    padding: 0px 10px;
+}
+
+.footer-icon  a:hover{
+    color: lightskyblue;
+}
+
+ul li a {
+    color: gray
+}
+
+u li a:hover {
+    color: lightslategray;
+}
